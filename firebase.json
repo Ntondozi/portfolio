@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "justiceportfolio",
+    "public": ".next",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
