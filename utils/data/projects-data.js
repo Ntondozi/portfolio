@@ -25,7 +25,7 @@ export const projectsData = [
         tools: ['Flutter', 'Dart', 'GetX', 'Firebase', 'APK Android'],
         role: 'Développeur Mobile Flutter',
         code: 'https://github.com/Ntondozi/Bibliotech.git',
-        demo: 'https://bibliotechstudents.web.app',
+        demo: 'https://bibliotechstudent.web.app',
     },
 
 ];
