@@ -82,6 +82,7 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import supabase from '../app/assets/svg/skills/supabase.svg'
 
 
 
@@ -90,6 +91,8 @@ export const skillsImage = (skill) => {
   switch (skillID) {
     case 'gcp':
       return gcp;
+    case 'supabase':
+      return supabase;
     case 'html':
       return html;
     case 'photoshop':

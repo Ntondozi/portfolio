@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "Développeur Flutter / Freelance",
-    duration: "2020 - Présent",
+    duration: "2024 - Présent",
     company: "Freelance",
     description: "Réalisation de projets mobiles et web pour divers clients. Développement d'applications Flutter, gestion complète du cycle de vie des projets, et création d'interfaces performantes et intuitives.",
   },

@@ -6,7 +6,7 @@ export const projectsData = [
         description: "Conception et développement d’une application mobile de type marketplace permettant l’achat et la vente d’articles neufs et d’occasion. Fonctionnalités : création de compte, publication d’articles, recherche par catégories, pages vendeurs personnalisées et navigation fluide. Architecture pensée pour donner à chaque vendeur l’apparence d’un mini site e-commerce au sein de la plateforme.",
         tools: ['Flutter', 'Dart', 'GetX', 'Firebase', 'UI/UX'],
         role: 'Développeur Mobile Flutter',
-        code: 'https://github.com/Ntondozi/mytendance243.git',
+        code: '',
         demo: 'https://mytendance243.web.app',
     },
     {
