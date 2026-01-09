@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="./public/image/drapeau.png">
 </p>
 
 <h1 align="center">Developer Portfolio</h1>
@@ -39,7 +39,7 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 </p>
 
 <p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
+  <a href="https://portfolio-three-ecru-89.vercel.app//" target="_blank">
     <strong>🚀 View Live Demo</strong>
   </a>
 </p>
@@ -581,13 +581,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Support :coffee:
 
-- ⭐ [Star the repository](https://github.com/said7388/developer-portfolio/stargazers)
-- � [Report bugs](https://github.com/said7388/developer-portfolio/issues)
-- � [Suggest features](https://github.com/said7388/developer-portfolio/discussions)
+- ⭐ [Star the repository](https://github.com/Ntondozi/portfolio/stargazers)
+- � [Report bugs](https://github.com/Ntondozi/portfolio/issues)
+- � [Suggest features](https://github.com/Ntondozi/portfolio/discussions)
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/said7388/developer-portfolio?style=social)
-![GitHub issues](https://img.shields.io/github/issues/said7388/developer-portfolio)
-![GitHub license](https://img.shields.io/github/license/said7388/developer-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Ntondozi/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ntondozi/portfolio?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Ntondozi/portfolio)
+![GitHub license](https://img.shields.io/github/license/Ntondozi/portfolio)
