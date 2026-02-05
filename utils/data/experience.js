@@ -1,16 +1,9 @@
 export const experiences = [
   {
     id: 1,
-    title: "Développeur Flutter / Freelance",
-    duration: "2024 - Présent",
+    title: "Développeur Mobile & Logiciel – Freelance",
+    duration: "2022 - Présent",
     company: "Freelance",
-    description: "Réalisation de projets mobiles et web pour divers clients. Développement d'applications Flutter, gestion complète du cycle de vie des projets, et création d'interfaces performantes et intuitives.",
+    description: "Développement d’applications mobiles (iOS/Android) et logiciels sur mesure pour divers clients. Collaboration étroite avec les clients pour comprendre leurs besoins et livrer des solutions innovantes et performantes. Utilisation de technologies telles que Flutter et python pour créer des applications multiplateformes. Gestion de projets de bout en bout, de la conception à la livraison, en assurant une communication transparente et un respect des délais.",
   },
-  {
-    id: 2,
-    title: "Développeur Mobile - KShield",
-    duration: "2023 - 2024",
-    company: "KShield",
-    description: "Conception et développement d’une application mobile Flutter pour la gestion et l’identification des utilisateurs et véhicules. Implémentation de fonctionnalités de sécurité et d’authentification avancées. Collaboration avec l’équipe backend (FastAPI) et participation à la conception fonctionnelle de l’application."
-  }
 ]
